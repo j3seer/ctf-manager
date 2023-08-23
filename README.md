@@ -180,7 +180,7 @@ https://discord.com/api/oauth2/authorize?client_id=[YOUR CLIENT ID]&permissions=
 1- Install dependencies
 
 ```bash
-$ pip3 install -r requirements
+$ pip3 install -r requirements.txt
 ```
 2- Run app.py
 
