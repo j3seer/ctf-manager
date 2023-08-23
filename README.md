@@ -203,7 +203,8 @@ $ python3 app.py
 - Add option to auto archive ctfs (remove from db and archive channel) if ctf ended
 - Add remove from db when archiving
 - Add reminder settings per user ( each user choose when to be alerted )
-
+- Add dockerfile for deployment
+- 
 # Similar projects / Alternatives:
 
 This bot is intentionally made simplistic with a few commands, I wanted to share it incase anyone was looking for a minimal bot that'll help manage their team. 
