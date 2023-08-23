@@ -33,11 +33,11 @@ This functionality will list CTFs that your team will participate in the future
 ------------
 ### Removing and Archiving CTFs
 
-Unarchiving
+- Archiving
 
 ![](/images/archive.png)
 
-Unarchiving
+- Unarchiving
 
 ![](/images/unarchive.png)
 
