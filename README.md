@@ -219,6 +219,6 @@ https://github.com/NullPxl/NullCTF
 
 https://github.com/sigpwny/pwnybot
 
-# Bugs and suggestions
+# Bugs 🐞
 
-You can use github to submit a PR for suggestions or bugs, otherwise you can contact me via discord with the username `j3seer`
+You can use github to submit a PR for suggestions or bugs, otherwise you can contact me via discord with the username `j3seer` or twitter @j3seer
