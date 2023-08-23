@@ -198,7 +198,7 @@ $ python3 app.py
 - config.py : bot constants configuration
 
 
-# Fixes / Additions 🛠️
+# Futue fixes / additions 🛠️
 - Add seconds to time count
 - Build the `$ultimate` command
 - Add reminder settings per user
