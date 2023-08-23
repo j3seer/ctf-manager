@@ -82,7 +82,6 @@ The reminder will be able to remind users **when the events starts** as well as:
 - 4 hours before start
 - 1 hours before start
 - 30 minutes before start
-- 10 minutes before start
 
 Here an example of the reminder
 
