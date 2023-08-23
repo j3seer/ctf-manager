@@ -175,7 +175,7 @@ To get the channel id of a channel you need to right click and "Copy channel id"
 https://discord.com/api/oauth2/authorize?client_id=[YOUR CLIENT ID]&permissions=275146599504&scope=bot
 ```
 
-# Setup:
+# Local setup:
 
 1- Install dependencies
 
@@ -188,6 +188,11 @@ $ pip3 install -r requirements.txt
 $ python3 app.py
 ```
 
+# Deployment via docker
+
+```bash
+sudo docker build . -t ctf-manager && sudo docker run --name ctf-manager --rm -it -d ctf-manager
+```
 
 # Files 📁
 
@@ -207,8 +212,7 @@ $ python3 app.py
 - Add option to auto archive ctfs (remove from db and archive channel) if ctf ended
 - Add remove from db when archiving
 - Add reminder settings per user ( each user choose when to be alerted )
-- Add dockerfile for deployment
-- 
+ 
 # Similar projects / Alternatives:
 
 This bot is intentionally made simplistic with a few commands, I wanted to share it incase anyone was looking for a minimal bot that'll help manage their team. 
