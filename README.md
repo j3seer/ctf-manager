@@ -84,6 +84,10 @@ The reminder will be able to remind users **when the events starts** as well as:
 - 30 minutes before start
 - 10 minutes before start
 
+Here an example of the reminder
+
+![](/images/reminder_example.png)
+
 
 > **Warning**
 \- PLEASE DO NOT ADD THE ROLE BY YOURSELF THAT'LL CREATE ISSUES WITH THE DB
