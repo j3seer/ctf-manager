@@ -41,11 +41,7 @@ This functionality will list CTFs that your team will participate in the future
 
 ![](/images/unarchive.png)
 
-Removing a ctf by id
-
-![](/images/remove.png)
-
-You can remove CTFs in bulk with `*`
+You can remove CTFs by id or in bulk with `*`
 
 ![](/images/remove_bulk.png)
 > **Warning**
