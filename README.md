@@ -203,7 +203,7 @@ sudo docker build . -t ctf-manager && sudo docker run --name ctf-manager --rm -i
 - config.py : bot constants configuration
 
 
-# Futue fixes / additions 🛠️
+# Future fixes / additions 🛠️
 - Add seconds to time count
 - Build the `$ultimate` command
 - Better styling response
