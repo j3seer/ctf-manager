@@ -105,6 +105,7 @@ $ctf list # list all events added
 $join <event_id>  # send a join request for an event
 $reminder <on/off> # activate or desactive reminder for you
 $ctf creds # get ctf creds of an event ( only works inside the CTF channel )
+$cat # get a random cat image with a random word
 ```
 
 
