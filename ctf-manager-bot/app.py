@@ -31,14 +31,16 @@ async def ping(ctx):
 async def cmds(ctx, *args):
     """List all available commands"""
     await ctx.send(
-        content="""All available public commands:```- ctf list
-                   \n- join <event_id>
-                   \n- reminder <on/off>
-                   \n- reminder settings <time>```\nAll available admin commands:```- ctf add <ctftime_event_url>
-                   \n- ctf remove <event_id>
-                   \n- join accept <username> <event_id>
-                   \n- join deny <username> <event_id>
-                   \n- join list```"""
+        content="""All available public commands:```diff
+                   \n+ ctf list
+                   \n+ join <event_id>
+                   \n+ reminder <on/off>
+                   ```\nAll available admin commands:```difff
+                   \n+ ctf add <ctftime_event_url>
+                   \n+ ctf remove <event_id>
+                   \n+ join accept <username> <event_id>
+                   \n+ join deny <username> <event_id>
+                   \n+ join list```"""
     )
 
 
