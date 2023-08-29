@@ -204,14 +204,14 @@ sudo docker build . -t ctf-manager && sudo docker run --name ctf-manager --rm -i
 
 
 # Future fixes / additions 🛠️
-- [X] Add seconds to time count
+- [ ] Add seconds to time count
 - [ ] Better time parsing
 - [ ] Build the `$ultimate` command
 - [ ] Better styling response
 - [ ] Add * argument for join command to accept in bulk
 - [ ] Add option to auto archive ctfs (remove from db and archive channel) if ctf ended
-- [X] Add remove from db when archiving
-- [X] Add reminder settings per user ( each user choose when to be alerted )
+- [ ] Add remove from db when archiving
+- [ ] Add reminder settings per user ( each user choose when to be alerted )
 - [ ] Add Logger and save logs
 
 # Similar projects / Alternatives:
